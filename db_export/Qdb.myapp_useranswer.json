@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65e8c506bce7e6674e5d7393"
+  },
+  "id": 154,
+  "user_id": 3,
+  "question_id": 7,
+  "user_answer": "madrid"
+},
+{
+  "_id": {
+    "$oid": "65e8c509bce7e6674e5d7394"
+  },
+  "id": 155,
+  "user_id": 3,
+  "question_id": 6,
+  "user_answer": "kohli"
+},
+{
+  "_id": {
+    "$oid": "65e8c50dbce7e6674e5d7395"
+  },
+  "id": 156,
+  "user_id": 3,
+  "question_id": 9,
+  "user_answer": "lotus"
+},
+{
+  "_id": {
+    "$oid": "65e8c510bce7e6674e5d7396"
+  },
+  "id": 157,
+  "user_id": 3,
+  "question_id": 2,
+  "user_answer": "22"
+},
+{
+  "_id": {
+    "$oid": "65e8c517bce7e6674e5d7397"
+  },
+  "id": 158,
+  "user_id": 3,
+  "question_id": 8,
+  "user_answer": "tiger"
+},
+{
+  "_id": {
+    "$oid": "65e8c583bce7e6674e5d739a"
+  },
+  "id": 159,
+  "user_id": 4,
+  "question_id": 5,
+  "user_answer": "kohli"
+},
+{
+  "_id": {
+    "$oid": "65e8c587bce7e6674e5d739b"
+  },
+  "id": 160,
+  "user_id": 4,
+  "question_id": 9,
+  "user_answer": "lotus"
+},
+{
+  "_id": {
+    "$oid": "65e8c58bbce7e6674e5d739c"
+  },
+  "id": 161,
+  "user_id": 4,
+  "question_id": 1,
+  "user_answer": "gta"
+},
+{
+  "_id": {
+    "$oid": "65e8c595bce7e6674e5d739d"
+  },
+  "id": 162,
+  "user_id": 4,
+  "question_id": 8,
+  "user_answer": "tiger"
+},
+{
+  "_id": {
+    "$oid": "65e8c5a1bce7e6674e5d739e"
+  },
+  "id": 163,
+  "user_id": 4,
+  "question_id": 9,
+  "user_answer": "tiger"
+}]

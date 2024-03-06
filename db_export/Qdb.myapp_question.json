@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65e6b5b666acfdd72584093c"
+  },
+  "id": 1,
+  "question": "what is your name",
+  "correct_answer": "samarth"
+},
+{
+  "_id": {
+    "$oid": "65e6b5c866acfdd72584093e"
+  },
+  "id": 2,
+  "question": "what is your age",
+  "correct_answer": "22"
+},
+{
+  "_id": {
+    "$oid": "65e6b5e066acfdd725840940"
+  },
+  "id": 3,
+  "question": "what is your nationality",
+  "correct_answer": "indian"
+},
+{
+  "_id": {
+    "$oid": "65e6b5fb66acfdd725840942"
+  },
+  "id": 4,
+  "question": "what is your favourite color",
+  "correct_answer": "red"
+},
+{
+  "_id": {
+    "$oid": "65e6b67166acfdd725840944"
+  },
+  "id": 5,
+  "question": "what is your favourite game",
+  "correct_answer": "gta"
+},
+{
+  "_id": {
+    "$oid": "65e6b69766acfdd725840946"
+  },
+  "id": 6,
+  "question": "your favourite cricketer",
+  "correct_answer": "kohli"
+},
+{
+  "_id": {
+    "$oid": "65e8c387bce7e6674e5d7384"
+  },
+  "id": 7,
+  "question": "Capital of spain",
+  "correct_answer": "madrid"
+},
+{
+  "_id": {
+    "$oid": "65e8c3ccbce7e6674e5d7386"
+  },
+  "id": 8,
+  "question": "What is the national animal of India",
+  "correct_answer": "tiger"
+},
+{
+  "_id": {
+    "$oid": "65e8c3fdbce7e6674e5d7388"
+  },
+  "id": 9,
+  "question": "What is the national flower of India",
+  "correct_answer": "lotus"
+},
+{
+  "_id": {
+    "$oid": "65e8c460bce7e6674e5d738a"
+  },
+  "id": 10,
+  "question": "Name the National fruit of India",
+  "correct_answer": "mango"
+}]

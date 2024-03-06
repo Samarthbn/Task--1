@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65e8c4f1bce7e6674e5d7392"
+  },
+  "id": 3,
+  "first_name": "samarth",
+  "last_name": "bn",
+  "username": "samarth",
+  "email": "samarth@gmail.com",
+  "password": "pbkdf2_sha256$390000$dxuN9P8Yx2YGbjS6h9Qaru$4Y+98okNMEF2zX03V9FiZLNHAJ6HKC0MQ8nQA8YsjcI=",
+  "is_passed": true
+},
+{
+  "_id": {
+    "$oid": "65e8c577bce7e6674e5d7399"
+  },
+  "id": 4,
+  "first_name": "sanan",
+  "last_name": "san",
+  "username": "sanan",
+  "email": "sanan@gmail.com",
+  "password": "pbkdf2_sha256$390000$jEQQAgRdz9FaZckJUHOL37$q9mCMrc3HiIEKBdes6b2TTJ5GK/KD01mvXp6cVFCocw=",
+  "is_passed": false
+}]
